@@ -1,0 +1,17 @@
+table, th,td {
+    border-collapse: collapse;
+    border:1px solid black; 
+    width: 50%;
+    text-align: center;
+}
+
+th
+{
+    background-color: #4CAF50;
+    color: white;
+}
+
+td{
+    background-color: #2693a77c;
+    color: rgb(17, 17, 17);
+}
